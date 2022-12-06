@@ -3,7 +3,7 @@ Project: Recipes, from The Odin Project
 
 ## Links
 
-- [Link to Odin Recipes, try it!](https://morfenza.github.io/odin_recipes/)
+- [Link to Odin Recipes, try it!](https://morfenza.github.io/odin-recipes/)
 
 - [Link to the Assignment](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
 
